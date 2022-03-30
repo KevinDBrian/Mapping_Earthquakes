@@ -31,12 +31,12 @@ Each earthquake data point on the map is a circle with a radius and color that m
 
 ### Streets
 
-![]()
+![](Earthquake_Challenge/static/img/streetsworld.png)
 
 ### Satellite
 
-![]()
+![](Earthquake_Challenge/static/img/satelliteworld.png)
 
 ### Navigation
 
-![]()
+![](Earthquake_Challenge/static/img/navigationworld.png)
